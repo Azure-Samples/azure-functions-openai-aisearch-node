@@ -38,7 +38,7 @@ You can learn more about the OpenAI trigger and bindings extension in the [GitHu
 
 Once you have your Azure subscription, run the following in a new terminal window to create Azure OpenAI, Azure AI Search and other resources needed: You will be asked if you want to enable a virtual network that will lock down your OpenAI and AI Search services so they are only available from the deployed function app over private endpoints. To skip virtual network integration, select true. If you select networking, your local IP will be added to the OpenAI and AI Search services so you can debug locally.
 ```bash
-azd init --template https://github.com/MadhuraBharadwaj-MSFT/azure-functions-openai-aisearch-node
+azd init --template https://github.com/Azure-Samples/azure-functions-openai-aisearch-node
 ```
 Mac/Linux:
 ```bash
