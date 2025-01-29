@@ -9,7 +9,8 @@ products:
 - entra-id
 urlFragment: azure-functions-openai-aisearch-node
 languages:
-- node
+- nodejs
+- javascript
 - bicep
 - azdeveloper
 ---
