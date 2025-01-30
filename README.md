@@ -1,7 +1,7 @@
 <!--
 ---
-name: Azure Function using OpenAI trigger and bindings extension to highlight OpenAI retrieval augmented generation with Azure AI Search.
-description: This repository contains an Azure Function using OpenAI trigger and bindings extension to highlight OpenAI retrieval augmented generation with Azure AI Search. The sample uses managed identity.
+name: JavaScript Azure Functions using OpenAI extension for OpenAI retrieval augmented generation with Azure AI Search
+description: This repository contains a JavaScript Azure Function using OpenAI trigger and bindings extension to highlight OpenAI retrieval augmented generation with Azure AI Search. The sample uses managed identity.
 page_type: sample
 products:
 - azure-functions
