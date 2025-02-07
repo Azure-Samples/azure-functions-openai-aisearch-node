@@ -28,7 +28,7 @@ You can learn more about the OpenAI trigger and bindings extension in the [GitHu
 
 * [Node 20](https://nodejs.org/)
 * [Azure Functions Core Tools v4.x](https://learn.microsoft.com/azure/azure-functions/functions-run-local?tabs=v4%2Cwindows%2Cnode%2Cportal%2Cbash)
-* [Azure OpenAI resource](https://learn.microsoft.com/azure/openai/overview)
+* [Azure OpenAI resource](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
 * [Azure AI Search resource](https://learn.microsoft.com/en-us/azure/search/)
 * [Azurite](https://github.com/Azure/Azurite)
 * [Azure Developer CLI](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/install-azd) to create Azure resources automatically - recommended
